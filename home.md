@@ -17,7 +17,7 @@
 -   **Description**: Microsoft, in a fierce competion with Netscape
 -   **Keywords**: war ,browser war, bill gates, microsoft, netscape, mark andreesen
 -   **Website Title**: Browser War
--   **Page Title**: 
+-   **Page Title**: History of Microsoft and Netscape
 -   **Hero Text**: The Most Interesting Battle of The Broswer Wars.
 ---
 ### Website Main Menu
