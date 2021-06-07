@@ -7,7 +7,6 @@
 
 [_metadata_:authors]:- "Leron Charles, Oluwatoyin Alabede"
 [_metadata_:tags]:- "internet, browswer, browser-war, internet-pioneer"  
-
 ---
 ####  General Info
 -  Leron Charles , Oluwatoyin Alabede
@@ -20,9 +19,25 @@
 -   **Page Title**: History of Microsoft and Netscape
 -   **Hero Text**: The Most Interesting Battle of The Broswer Wars.
 ---
-### Website Main Menu
--   **Menu Link**
--   **Page Title**
+### Website Main Menu : Internet Explorer Vs Netscape Navigator
+### Page 1
+-   **Menu Link**:
+-   **Page Title**: Microsoft's goal to destroy Netscape
+-   **Description**: Microsoft's failed effort to buy Netscape led to the creation of Internet Explorer
+-   **Keywords**: 
+-   **Page Layout**: 
+-   **Page Content**: Microsoft's bad negotiation to buy Netscape for $1m. Microsoft created Internet Explorer to shutdown Netscape and used PC manufacturers to do their dirty work
+---
+###  Sidebar Content: This was like the battle between David and Goliath but this time Goliath squashed David like a bug.
+---
+### Sidebar Image
+-   **Image Link**: 
+-   **Image Alt Attribute**:
+-   **Sidebar Text**:
+---
+### Page Image
+-   **Page Image Link**:
+-   **Page Image Alt attribute**:
 
 
 
