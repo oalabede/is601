@@ -7,7 +7,6 @@
 
 [_metadata_:authors]:- "Leron Charles, Oluwatoyin Alabede"
 [_metadata_:tags]:- "internet, browswer, browser-war, internet-pioneer"  
-
 ---
 ####  General Info
 -  Leron Charles , Oluwatoyin Alabede
@@ -20,9 +19,24 @@
 -   **Page Title**: History of Microsoft and Netscape
 -   **Hero Text**: The Most Interesting Battle of The Broswer Wars.
 ---
-### Website Main Menu
--   **Menu Link**
--   **Page Title**
+### Website Main Menu : Page 1
+-   **Menu Link**:
+-   **Page Title**:
+-   **Description**:
+-   **Keywords**: 
+-   **Page Layout**:
+-   **Page Content**:
 ---
+###  Sidebar Content
+---
+### Sidebar Image
+-   **Image Link**: 
+-   **Image Alt Attribute**:
+-   **Sidebar Text**:
+---
+### Page Image
+-   **Page Image Link**:
+-   **Page Image Alt attribute**:
+
 
 
