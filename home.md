@@ -28,7 +28,8 @@
 -   **Page Layout**:
 -   **Page Content**: Microsoft's bad negotiation to buy Netscape for $1m. Microsoft created Internet Explorer to shutdown Netscape
 ---
-###  Sidebar Content This was like the battle between David and Goliath except this time, Goliath squashed David like a bug.
+###  Sidebar Content 
+-   This was like the battle between David and Goliath except this time, Goliath squashed David like a bug.
 ---
 ### Sidebar Image
 -   **Image Link**: 
