@@ -25,8 +25,8 @@
 -   **Menu Link**:
 -   **Page Title**: Microsoft's goal to destroy Netscape
 -   **Description**: Microsoft's failed attempt to buy Netscape led to the creation of Internet Explorer
--   **Keywords**: 
--   **Page Layout**:
+-   **Keywords**: internet explorer, microsoft windows, netscape navigator
+-   **Page Layout**: 
 -   **Page Content**: Microsoft's bad negotiation to buy Netscape for $1m. Microsoft created Internet Explorer to shutdown Netscape
 ---
 ###  Sidebar Content 
