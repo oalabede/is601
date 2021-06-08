@@ -32,6 +32,8 @@
 ###  Sidebar Content 
 -   This was like the battle between David and Goliath except this time, Goliath squashed David like a bug.
 ---
+### Footer Menu
+---
 ### Sidebar Image
 -   **Image Link**: 
 -   **Image Alt Attribute**:
@@ -40,6 +42,43 @@
 ### Page Image
 -   **Page Image Link**:
 -   **Page Image Alt attribute**:
+---
+### Page 2
+-   **Menu Link**:
+-   **Page Title**: 
+-   **Description**: 
+-   **Keywords**: 
+-   **Page Layout**: 
+-   **Page Content**: 
+---
+### Footer Menu
+---
+###  Sidebar Content 
+-   
+---
+### Sidebar Image
+-   **Image Link**: 
+-   **Image Alt Attribute**:
+-   **Sidebar Text**:
+---
+### Page Image
+-   **Page Image Link**:
+-   **Page Image Alt attribute**:
+--- 
+### Footer Menu
+### About Page
+-   **Menu Link**:
+-   **Page Title**: 
+-   **Description**: 
+-   **Keywords**: 
+-   **Page Layout**: 
+-   **Page Content**: 
+---
+###  Sidebar Content 
+-   
+---
+
+
 
 
 
