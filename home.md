@@ -19,7 +19,8 @@
 -   **Page Title**: History of Microsoft and Netscape
 -   **Hero Text**: The Most Interesting Battle of The Broswer Wars.
 ---
-### Website Main Menu : Internet Explorer vs Netscape Navigator
+### Website Main Menu 
+-    Internet Explorer vs Netscape Navigator
 ### Page 1
 -   **Menu Link**:
 -   **Page Title**: Microsoft's goal to destroy Netscape
