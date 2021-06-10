@@ -32,7 +32,7 @@
 -   The launch of MSN by Bill Gates, in response to Mark Andreesen and Netscape.
 ---
 ### Sidebar Image
--   **Image Link**: !<img src="../images/maxresdefault.jpg"/>
+-   **Image Link**: <img src="./images/maxresdefault.jpg"/>
 -   **Image Alt Attribute**:
 -   **Sidebar Text**:
 ---
