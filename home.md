@@ -22,30 +22,30 @@
 -    Internet Explorer vs Netscape Navigator
 ### Page 1
 -   **Menu Link**:
--   **Page Title**: Microsoft's goal to destroy Netscape
--   **Description**: Microsoft's failed attempt to buy Netscape led to the creation of Internet Explorer
--   **Keywords**: internet explorer, microsoft windows, netscape navigator
--   **Page Layout**: 
--   **Page Content**: Microsoft's bad negotiation to buy Netscape for $1m. Microsoft created Internet Explorer to shutdown Netscape
+-   **Page Title**: History of the War
+-   **Description**: The First Browser ever created after the invention of the World Wide Web
+-   **Keywords**: mark andreesen, mosaic, tim burners lee, netscape, jim clark
+-   **Page Layout**:  F or Z layout
+-   **Page Content**: After the World Wide Web invented by Tim Burners Lee, Mark Andreesen created the first Broswer, which will later a war
 ---
 ###  Sidebar Content 
--   This was like the battle between David and Goliath except this time, Goliath squashed David like a bug.
----
-### Footer Menu
+-   The launch of MSN by Bill Gates, in response to Mark Andreesen and Netscape.
 ---
 ### Sidebar Image
--   **Image Link**: 
+-   **Image Link**: !<img src="../images/maxresdefault.jpg"/>
 -   **Image Alt Attribute**:
 -   **Sidebar Text**:
 ---
 ### Page Image
 -   **Page Image Link**:
 -   **Page Image Alt attribute**:
+
+### Footer Menu
 ---
 ### Page 2
 -   **Menu Link**:
 -   **Page Title**: 
--   **Description**: 
+-   **Description**: Microsoft's failed attempt to buy Netscape led to the creation of Internet Explorer
 -   **Keywords**: 
 -   **Page Layout**: 
 -   **Page Content**: 
