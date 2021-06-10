@@ -26,15 +26,15 @@
 -   **Description**: The First Browser ever created after the invention of the World Wide Web
 -   **Keywords**: mark andreesen, mosaic, tim burners lee, netscape, jim clark
 -   **Page Layout**:  F or Z layout
--   **Page Content**: After the World Wide Web invented by Tim Burners Lee, Mark Andreesen created the first Broswer, which will later a war
+-   **Page Content**: After the creation of the World Wide Web invented by Tim Burners Lee, Mark Andreesen, a graduate student from the University of Illinois created the first Web Broswer, *Mosaic*.        which will later a war.... talk about the first browser,name,  what were its contents, what did it have differently?
 ---
 ###  Sidebar Content 
 -   The launch of MSN by Bill Gates, in response to Mark Andreesen and Netscape.
 ---
 ### Sidebar Image
--   **Image Link**: <img src="./images/ie.png"/>
+-   **Image Link**: <img src="./images/msn.jpg"/>
 -   **Image Alt Attribute**:
--   **Sidebar Text**:
+-   **Sidebar Text**: Paragraph about bill gates and why he launch
 ---
 ### Page Image
 -   **Page Image Link**:
