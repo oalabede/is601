@@ -26,7 +26,9 @@
 -   **Description**: The First Browser ever created after the invention of the World Wide Web
 -   **Keywords**: mark andreesen, mosaic, tim burners lee, netscape, jim clark
 -   **Page Layout**:  F or Z layout
--   **Page Content**: After the creation of the World Wide Web invented by [Tim Burners Lee](https://www.w3.org/People/Berners-Lee/), a graduate student from the University of Illinois whose name is [Mark Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) created the first Web Browser to take the internet to the next level, [*Mosaic*](http://www.ncsa.illinois.edu/enabling/mosaic). Mosaic was not the first browser that internet had seen, but it was a revolutionary one. It gave the internet the capability of multimedia which something that a lot of people did not think was possible. With Mosaic, users were able to browse for image, audio, and videos. It made the internet a place of entertainment, and a place to be.\  After the first Browser, 
+-   **Page Content**: After the creation of the World Wide Web invented by [Tim Burners Lee](https://www.w3.org/People/Berners-Lee/), a graduate student from the University of Illinois whose name is [Mark Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) created the first Web Browser to take the internet to the next level, [*Mosaic*](http://www.ncsa.illinois.edu/enabling/mosaic). Mosaic was not the first browser that internet had seen, but it was a revolutionary one. It gave the internet the capability of multimedia which something that a lot of people did not think was possible. With Mosaic, users were able to browse for image, audio, and videos. It made the internet a place of entertainment, and a place to be.
+
+ After the first Browser, 
 ---
 ###  Sidebar Content 
 -   The launch of MSN by Bill Gates, in response to Mark Andreesen and Netscape.
