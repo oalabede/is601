@@ -68,7 +68,7 @@
 -   **Sidebar Text**: Microsoft's efforts to crush Netscape Navigator.
 ---
 ### Page Image
--   **Page Image Link**:<img src ="./images/chess.jpg"/>
+-   **Page Image Link**:<img src ="./images/chess.jpg" width="700px"/>
 -   **Page Image Alt attribute**: Chess
 --- 
 ### Footer Menu
