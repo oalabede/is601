@@ -43,7 +43,7 @@
 -   **Sidebar Text**: The network that Microsoft created in reponse to Netscape.
 ---
 ### Page Image
--   **Page Image Link**: <img src="./images/msn.jpg" width="500px"/>
+-   **Page Image Link**: <img src="./images/maxresdefault.jpg" width="700px"/>
 -   **Page Image Alt attribute**:
 
 ### Footer Menu
