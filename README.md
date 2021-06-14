@@ -20,12 +20,12 @@
 ---
 ### Website Main Menu 
 -    Internet Explorer vs Netscape Navigator
-### Page 1
+### Home
 -   **Menu Link**: Home, About
 -   **Page Title**: History of the War
 -   **Description**: The First Browser ever created after the invention of the World Wide Web
 -   **Keywords**: mark andreesen, mosaic, tim burners lee, netscape, jim clark
--   **Page Layout**:  F or Z layout
+-   **Page Layout**:   Z layout
 -   **Page Content**: After the creation of the World Wide Web invented by [Tim Burners Lee](https://www.w3.org/People/Berners-Lee/) in 1992, a graduate student from the University of Illinois whose name is [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) created the first Web Browser to take the internet to the next level, [*Mosaic*](http://www.ncsa.illinois.edu/enabling/mosaic). In 1993, Mosaic was not the first browser that internet had seen, but it was a revolutionary one. It gave the internet the capability of multimedia which something that a lot of people did not think was possible. With Mosaic, users were able to browse for image, audio, and videos. It made the internet a place of entertainment, and a place to be.
 
      After Mosaic, Marc Andreessen went to James, H. clark for financial support, and together they created a company called [Netscape](https://en.wikipedia.org/wiki/Netscape).The company was very successful when it first launched. JavaScript, one of the widely used programming languages with full of libraries today was created by a developer from Netsape. Although the company was widely recognized for its amazing and life changing broswer, there was one guy, who was watching very closely. A guy who loves competion and would do anything to always be on the wining side; his name is [Bill Gates](https://en.m.wikipedia.org/wiki/Bill_Gates).
@@ -48,12 +48,12 @@
 
 ### Footer Menu
 ---
-### Page 2
+### Story Page
 -   **Menu Link**: Home, About
 -   **Page Title**: The Main Cause of of the War
 -   **Description**: Microsoft's failed attempt to buy Netscape led to the creation of Internet Explorer
 -   **Keywords**: Internet explorer, bill gates
--   **Page Layout**: 
+-   **Page Layout**: Z
 -   **Page Content**: 
 ---
 ### Footer Menu
