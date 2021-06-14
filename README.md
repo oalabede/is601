@@ -43,10 +43,11 @@
 -   **Sidebar Text**: The network that Microsoft created in reponse to Netscape.
 ---
 ### Page Image
--   **Page Image Link**: <img scr="./images/chess.jpg" width="500px"/>
+-   **Page Image Link**: <img src="./images/msn.jpg" width="500px"/>
 -   **Page Image Alt attribute**:
 
 ### Footer Menu
+
 ---
 ### Story Page
 -   **Menu Link**: Home, About
@@ -54,7 +55,7 @@
 -   **Description**: Microsoft's failed attempt to buy Netscape led to the creation of Internet Explorer
 -   **Keywords**: Internet explorer, bill gates
 -   **Page Layout**: Z
--   **Page Content**: 
+-   **Page Content**: After the creation of MSN in 1994, Microsofy had success. However, they did not know that Netscape has something in store. In the same year, Netscape launched another web broswser that would take te internet for good; and its name was [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator).
 ---
 ### Footer Menu
 ---
@@ -62,7 +63,7 @@
 -   
 ---
 ### Sidebar Image
--   **Image Link**: 
+-   **Image Link**: <img src ="./images/ie.png"/>
 -   **Image Alt Attribute**:
 -   **Sidebar Text**:
 ---
