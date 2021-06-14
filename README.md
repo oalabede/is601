@@ -21,7 +21,7 @@
 ### Website Main Menu 
 -    Internet Explorer vs Netscape Navigator
 ### Page 1
--   **Menu Link**:
+-   **Menu Link**: Home, About
 -   **Page Title**: History of the War
 -   **Description**: The First Browser ever created after the invention of the World Wide Web
 -   **Keywords**: mark andreesen, mosaic, tim burners lee, netscape, jim clark
@@ -33,7 +33,7 @@
 ###  Sidebar Content 
 -   **The Launch of MSN by Microsoft, in response to Netscape.**
 
-     In 1994, Gill Gates, the CEO of Microsoft wanted to be on the wining side, so he decided to launch MSN which stand for Microsoft Network. In the same idea of Mosaic, MSN gave users the capability to browse the web in a more vibrant way. It enabled the capabilities of graphics such as images, and videos. It also allowed users to browse for information. From that time, everyone knew that was goign to be the [First Browser War]().
+     In 1994, Gill Gates, the CEO of Microsoft wanted to be on the wining side, so he decided to launch MSN which stand for Microsoft Network. In the same idea of Mosaic, MSN gave users the capability to browse the web in a more vibrant way. It enabled the capabilities of graphics such as images, and videos. It also allowed users to browse for information. From that time, everyone knew that was going to be the [First Browser War]().
 
 
 ---
@@ -43,16 +43,16 @@
 -   **Sidebar Text**: The network that Microsoft created in reponse to Netscape.
 ---
 ### Page Image
--   **Page Image Link**: <img scr="./images/chess.jpeg" width="700px"/>
+-   **Page Image Link**: <img scr="./images/chess.jpg" width="500px"/>
 -   **Page Image Alt attribute**:
 
 ### Footer Menu
 ---
 ### Page 2
--   **Menu Link**:
--   **Page Title**: 
+-   **Menu Link**: Home, About
+-   **Page Title**: The Main Cause of of the War
 -   **Description**: Microsoft's failed attempt to buy Netscape led to the creation of Internet Explorer
--   **Keywords**: 
+-   **Keywords**: Internet explorer, bill gates
 -   **Page Layout**: 
 -   **Page Content**: 
 ---
@@ -84,7 +84,3 @@
 ---
 ### Footer Menu
 ---
-
-
-
-
