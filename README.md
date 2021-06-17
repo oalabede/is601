@@ -58,7 +58,7 @@
 -   **Page Content**: After the creation of MSN in 1994, Microsoft had success. However, they did not know that Netscape had something in store. In the same year, Netscape launched another web broswser that would take te internet for good; and its name was [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator).
 ---
 ### Footer Menu
-   [Home]  [Story]  [About]
+   [Home]()  [Story]  [About]
 ---
 ###  Sidebar Content 
 -   The browser war was escalated when Mark Andreesen called Microsoft engineers, "a set of poorly debugged devise drivers" in an article. The statement shifted everyone's focus at Microsoft to "crush Netscape by any means necessary", creating internet explorer with much better versions in comparison to Netscape Navigator [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer) and made it free for users. Microsoft also instructed the PC manufacturers to not install Netscape browser or else, they would lose their Windows license, thereby monopolizing the internet.
