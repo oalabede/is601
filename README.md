@@ -85,5 +85,6 @@
 -   Microsoft's stock was high because of internet explorer but after the initial verdict on the lawsuit, the stocks dropped by $30b overnight.
 ---
 ### Footer Menu 
+     Home Story About
 ---
 
